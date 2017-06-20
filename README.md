@@ -32,7 +32,7 @@ The application should support the following data capture:
  * Telephone
  * Mobile
  * Country (code)
- * Prefered method of contact [Email, Tel., Mobile]
+ * Preferred method of contact [Email, Tel., Mobile]
  
  **Products or Services** - List of Products or Cloud Services
  * Identifier
@@ -63,7 +63,7 @@ The application should support the following data capture:
  * Event Session Identifier (monitor at the session level or Event level?)
  * Contact Identifier
  
- **Attendess Interest** - A list of Products or Services that an attendess has shown interest for further information
+ **Attendess Interest** - A list of Products or Services that an attendees has shown interest for further information
  * Event Attendee Identifier
  * Product / Service Identifier
- * Prefereed Method of contact
+ * Preferred Method of contact
